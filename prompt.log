@@ -82,3 +82,21 @@ Gemini: Of course. I'll create a `README.md` file that documents the project usi
 User: 請幫我產生requirements.txt
 
 Gemini: Certainly. I'll create a `requirements.txt` file for you.
+
+User: 請幫我將專案git push到https://github.com/candice-wu/Security_HW_01_linear_regression.git
+
+Gemini: I can do that. I'll walk you through the process of pushing your project to GitHub.
+
+Gemini: Great. Now I will add the remote repository, stage all the files, commit them with the message "Initial commit", and push them to your GitHub repository.
+
+User: 請生成一個.gitignore檔案
+
+Gemini: Of course. I'll create a `.gitignore` file with common Python ignores.
+
+User: 請再所有檔案再更新到github上
+
+Gemini: Of course. I'll add the `.gitignore` file, commit it, and push it to your GitHub repository.
+
+User: 在README.md前面加入這段Demosite：https://securityhw01linearregression-o9pd5qxrsr7c5y6qpjfhrv.streamlit.app
+
+Gemini: Okay, I'll add the demo site link to the `README.md` file. First, I'll read the file.

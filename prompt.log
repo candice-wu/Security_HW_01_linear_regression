@@ -244,3 +244,13 @@ I will now update `prompt.log` with our latest conversation, then add, commit, a
 User: which pip3
 
 Gemini: I'll run `which pip3` to get the path to the `pip3` executable.
+
+---
+
+User: deactivate
+
+Gemini: It seems the `deactivate` command isn't directly recognized in this shell context. This usually happens because `deactivate` is a shell function that needs to be sourced, not executed as a standalone command.
+
+You might need to close and reopen your terminal, or if you activated the environment in a specific way, you may need to use the corresponding deactivation method.
+
+I'll update the `prompt.log` with this information.

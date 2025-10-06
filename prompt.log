@@ -241,6 +241,6 @@ I will now update `prompt.log` with our latest conversation, then add, commit, a
 
 ---
 
-User: streamlit run main.py
+User: which pip3
 
-Gemini: I'll run the Streamlit app. This will open a new tab in your browser.
+Gemini: I'll run `which pip3` to get the path to the `pip3` executable.
